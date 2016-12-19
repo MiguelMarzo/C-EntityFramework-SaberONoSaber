@@ -1,0 +1,11 @@
+﻿Intentando recopilar información sobre la dependencia para el paquete 'EntityFramework.5.0.0' respecto al proyecto 'CapaPresentacion', con el destino '.NETFramework,Version=v4.5.2'
+Intentando resolver las dependencias para el paquete 'EntityFramework.5.0.0' con DependencyBehavior 'Lowest'
+Resolviendo acciones para instalar el paquete 'EntityFramework.5.0.0'
+Se resolvieron las acciones para instalar el paquete 'EntityFramework.5.0.0'
+El paquete 'EntityFramework.5.0.0' ya existe en la carpeta 'C:\Users\David\Source\Repos\C-EntityFramework-SaberONoSaber\packages'
+El paquete 'EntityFramework.5.0.0' se agregó a 'packages.config'
+Ejecutando archivo de script 'C:\Users\David\Source\Repos\C-EntityFramework-SaberONoSaber\packages\EntityFramework.5.0.0\tools\install.ps1'...
+
+Type 'get-help EntityFramework' to see all available Entity Framework commands.
+'EntityFramework 5.0.0' se instaló correctamente en CapaPresentacion
+========== Finalizado ==========
