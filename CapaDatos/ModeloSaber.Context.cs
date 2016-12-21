@@ -12,6 +12,7 @@ namespace CapaDatos
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
+    using EntidadesBis;
     
     public partial class SaberNoSaberEntities : DbContext
     {
