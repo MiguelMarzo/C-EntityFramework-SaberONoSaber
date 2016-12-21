@@ -100,7 +100,7 @@
             this.btn1.Size = new System.Drawing.Size(138, 81);
             this.btn1.TabIndex = 5;
             this.btn1.UseVisualStyleBackColor = true;
-            this.btn1.Click += new System.EventHandler(this.button1_Click);
+           
             // 
             // btn2
             // 
