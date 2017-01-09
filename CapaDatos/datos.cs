@@ -22,7 +22,7 @@ namespace CapaDatos
                            where pre.IDPREGUNTA == idPregunta
                            select pre;
 
-            return pregunta;
+            return pregunta.ToList()[0];
         }
 
         public List<Respuesta> devolverRespuestas(int idPregunta)
@@ -30,7 +30,7 @@ namespace CapaDatos
             var respuestas = from resp in contexto.Respuestas
                              where resp.IDPREGUNTA == idPregunta
                              select resp;
-            return respuestas.toList();
+            return respuestas.ToList();
         }
 
 
